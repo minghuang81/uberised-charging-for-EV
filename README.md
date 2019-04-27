@@ -1,2 +1,2 @@
 # uberised-charging-for-EV
-A proposal for uberisation of electric vehicule charging using IOTA as payment method.
+A proposal for uberisation of electric vehicle charging using IOTA as payment method.
